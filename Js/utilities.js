@@ -12,7 +12,7 @@ function generateArray() {
 
 // insert random generated value
 function insertRandomArray() {
-  // making global variable
+  // making global vari
   randomArray = generateArray();
   randomSortedArray = [...randomArray];
 
